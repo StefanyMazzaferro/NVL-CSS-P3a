@@ -1,0 +1,12 @@
+h1{
+	color:brown;
+	background-color: orange;
+	border: 1px solid black;
+	width: 50%;
+}
+li{
+	color:green;
+	background-color: yellow;
+	border: 1px solid black;
+	width: 30%;
+}

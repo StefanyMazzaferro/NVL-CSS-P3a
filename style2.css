@@ -1,0 +1,13 @@
+h3{
+	color:brown;
+	background-color: orange;
+	border: 1px solid black;
+	width: 50%;
+}
+
+ol li{
+	color:green;
+	background-color: yelow;
+	border: 1px solid black;
+	width: 30%;
+}
